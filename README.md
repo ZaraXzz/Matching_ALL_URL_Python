@@ -1,6 +1,6 @@
 # Matching_ALL_URL_Python
 
-python正则表达式 匹配所有URL
+python正则表达式 匹配所有URL 记住是“所有”
 偶然发现的一个强力正则表达式 用来匹配URL的
 
 用python测试了一下 比我以往用过的都好得多
